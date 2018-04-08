@@ -2,7 +2,7 @@
 A project to run on Linux, and allow Core Java programs to be executed via web browser from any connected node.
 This is an open source project, one is definitely open to suggestions and addition of more features.
 More programming languages are being added to the project. The project is under development using Java as language instead of PHP.
-The project will soon be available globally. Actions are being taken for such using AWS.
+The project will soon be available globally. Actions will soon taken for such using AWS.
 
 Follow this step to run the project:
 1. Install apache, php and mysql in your Linux OS
